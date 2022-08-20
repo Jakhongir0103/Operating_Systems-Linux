@@ -1,0 +1,2 @@
+Topic - Communication between processes through signals and pipes
+Description - This is s C program that generates two children, a child 1 and a child 1. The child 2 reads from the keyboard some strings, and it transfers them to the child 1. The child 1 converts the strings into uppercase characters, and it visualizes the strings in standard output. Entering the stirng "end" stops the program. The transfer of the strings (and synchronization) takes place through pipes.
