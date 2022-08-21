@@ -1,0 +1,3 @@
+Topic - Thread
+Description - This program receives the names of n (argv[1]) input files, sorts them concurrently using threads and prints out the result in the output files. Number of the files and names of the input/output files are given in the arguments.
+Run the program with the following arguments to see it in use: "./prog 3 fileIn1.txt fileIn2.txt fileIn3.txt fileOut1.txt fileOut2.txt fileOut3.txt"
