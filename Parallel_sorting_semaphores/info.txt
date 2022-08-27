@@ -1,0 +1,2 @@
+Topic - Semaphores, Thread
+Description - given an array with size n, the program sorts the array using bubble sort with n-1 threads. For simplicity, the array is defined beforehand 
